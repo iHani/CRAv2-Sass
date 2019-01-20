@@ -6,7 +6,7 @@ class App extends Component {
       <div className="bg-light">
         <div className="container">
           <div className="text-center">
-            <h2>CRA v2 with <span className="text-secondary">scss</span></h2>
+            <h2>CRA v2 <span className="fab fb-github fa-2x"></span> with <span className="text-secondary">scss</span></h2>
           </div>
         </div>
         <footer className="footer">
