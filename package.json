@@ -13,8 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "sass": "node-sass -w src/scss/ -o dist/css/ --recursive",
-    "ss": "echo \"Hello hiii\""
+    "sass": "node-sass -w src/scss/ -o dist/css/ --recursive"
   },
   "eslintConfig": {
     "extends": "react-app"
